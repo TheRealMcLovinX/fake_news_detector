@@ -9,6 +9,7 @@ from nltk.corpus import stopwords
 # --- Page Config ---
 st.set_page_config(page_title="AI Fake News Detector by Rushda Anis", page_icon="🛡️")
 st.title("VerityAI: Smart News Verification by Rushda Anis")
+st.caption("⚠️ **Note:** This model may flag modern tech or financial articles as 'Fake' due to its strict sensitivity settings.")
 
 # Download stopwords
 nltk.download('stopwords')
@@ -93,5 +94,6 @@ if st.button("Analyze News"):
                 st.write(f"Found clickbait-style keywords: {', '.join(found)}")
             else:
                 st.write("No typical clickbait keywords detected in the raw text.")
+
 
 
