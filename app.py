@@ -7,8 +7,8 @@ import numpy as np
 from nltk.corpus import stopwords
 
 # --- Page Config ---
-st.set_page_config(page_title="AI Fake News Detector", page_icon="🔍")
-st.title("🔍 Fake News Detector")
+st.set_page_config(page_title="AI Fake News Detector by Rushda Anis", page_icon="🛡️")
+st.title("🛡️ VeritasML: Smart News Verification")
 
 # Download stopwords
 nltk.download('stopwords')
