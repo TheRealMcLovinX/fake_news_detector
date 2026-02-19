@@ -19,7 +19,7 @@ I built this app to tackle one of the biggest problems on the internet: misinfor
    
 
 # *Try it Yourself*
-Paste a news article into the app: 
+Paste a news article into the app: [VerityAI](https://verity-ai.streamlit.app/)
 
 Check the Credibility Score.
 
