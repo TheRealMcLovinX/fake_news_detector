@@ -1,4 +1,4 @@
-Fake News Detector
+# Fake News Detector:
 I built this app to tackle one of the biggest problems on the internet: misinformation. Using Natural Language Processing, it analyzes the writing style of an article to see if it’s trustworthy or just clickbait.
 
 # How it Works:
