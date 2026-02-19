@@ -1,4 +1,4 @@
-# Fake News Detector:
+# Fake News Detector
 I built this app to tackle one of the biggest problems on the internet: misinformation. Using Natural Language Processing, it analyzes the writing style of an article to see if it’s trustworthy or just clickbait.
 
 # How it Works:
@@ -16,8 +16,9 @@ I built this app to tackle one of the biggest problems on the internet: misinfor
 3. Streamlit (The web interface)
 
 4. Pandas & NLTK (Data cleaning)
+   
 
-*Try it Yourself*
+# *Try it Yourself*
 Paste a news article into the app: 
 
 Check the Credibility Score.
